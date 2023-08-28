@@ -1,0 +1,2 @@
+this is new mix files This is first text file
+ this is second file 
